@@ -10,7 +10,7 @@ Si esta buscando un desarrollador resiliente, experimentado y apasionado para su
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gonzaloaquino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzaloaquino" height="30" width="40" /></a>
-<a href="https://discord.gg/GonzaloAqui#8507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GonzaloAqui#8507" height="30" width="40" /></a>
+<a href="https://discord.gg/j7v3Zg5C" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GonzaloAqui#8507" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
