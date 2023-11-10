@@ -1,9 +1,10 @@
-<h1 align="center">¡Hola Mundo!👋, Soy Gonzalo Aquino</h1>
-<h3 align="center">Estudiante Front - End en el programa ONE de Oracle+Alura</h3>
+# ¡Hola Mundo!👋
 
-<p>Soy un desarrollador apasionado por las tendencias tecnológicas, me encanta resolver problemas complejos y crear soluciones innovadoras. Además de mis habilidades técnicas disfruto del trabajo colaborativo con otras áreas del desarrollo de software y siempre estoy buscando alternativas que me vuelvan más ágil. Disfruto de estar con mi familia, salir a conciertos, viajar y aprender cosas nuevas.
+Soy un desarrollador amante del mundo digital, hace 3 años tube mi primer acercamiento con el mundo del desarrollo me pasione al grado de estudiar de modo autodidacta para despues formalizar mis **estudios** en una **Startup de tech brazileña** donde recibi la especialidad en **Front - End** trabajando con **Java Script** y **React** creando mis primeros proyectos. Actualmente continuo preparandome como **UX Designer** para brindar una experiencia agradable al usuario en mis futuros proyectos a traves del **Design Thinking**.
 
-Si esta buscando un desarrollador resiliente, experimentado y apasionado para sus proyectos ¡No dude en contactarme! Estoy emocionado por enfrentar nuevos desafíos y formar parte de nuevos proyectos.</p><br><br>
+Me apasionan los video juegos, programar, la música y disfruto mucho conocer gente nueva con ideas grandes.
 
-![Github Gist stars](https://img.shields.io/github/gist/stars/GonzaloAqui?style=social)![GitHub followers](https://img.shields.io/github/followers/GonzaloAqui?style=social)
+![](https://i.kym-cdn.com/photos/images/original/001/067/706/d8e.gif)
+
+![GitHub followers](https://img.shields.io/github/followers/GonzaloAqui?style=social)
 
