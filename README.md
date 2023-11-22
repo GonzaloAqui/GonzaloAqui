@@ -1,10 +1,11 @@
-# ¡Hola Mundo!👋
+# ¡Hola, Soy Gonzalo!👋
 
-Soy un desarrollador amante del mundo digital, hace 3 años tube mi primer acercamiento con el mundo del desarrollo me pasione al grado de volverme autodidacta para despúes formalizar mis **estudios** en una **Startup de tech brazileña** donde recibi la especialidad en **Front - End** trabajando con **Java Script**/**React** y creando mis primeros proyectos. Actualmente continuo preparandome como **UX Designer** para brindar una experiencia agradable al usuario en mis futuros proyectos a traves del **Design Thinking**.
+> Las cosas más especializadas son las que se comprenden y utilizan con facilidad
 
-Me apasionan los video juegos, programar, la música y disfruto mucho conocer gente nueva con ideas grandes.
+Soy analítico y disfruto crear soluciones a problemas complejos, como diseñador de experiencia de usuario puedo traducirlas en aplicaciones faciles de entender utilizando codigo HTML y CSS debido a que tengo experiencia también como Desarrollador Front-End. La curiosidad ha sido mi motor de crecimiento en la industria tech aunque tambien la disciplina y la paciencia me han motivado a la búsqueda de nuevos retos, pues como Autodidacta Digital estoy en continuo crecimiento.
+
+Me apasionan los video juegos, la música, diseñar, programar y conocer gente nueva con ideas diferentes.
 
 ![](https://i.kym-cdn.com/photos/images/original/001/067/706/d8e.gif)
 
 ![GitHub followers](https://img.shields.io/github/followers/GonzaloAqui?style=social)
-
