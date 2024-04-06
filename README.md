@@ -1,4 +1,4 @@
-# ¡Hola, Soy Gonzalo Aquino - Novadev!👋
+# ¡Hola, Soy Gonzalo Aquino, Novadev!👋
 
 > La tecnología es un lenguaje universal
 
