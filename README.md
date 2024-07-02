@@ -1,4 +1,4 @@
-# ¡Hola, Soy Gonzalo Aquino, Novadev!👋
+# ¡Hola, Soy Gonzalo Aquino, Diseñador UX/UI y Desarrollador Front-End!👋
 
 > La tecnología es un lenguaje universal
 
