@@ -2,11 +2,11 @@
 
 > La tecnología es un lenguaje universal
 
-Diseño las mejores soluciones en UX/UI alineado a resolver las necesidades de los usuarios al navegar por los proyectos que he diseñado utilizando el framework “Design Thinking” iterando para realizar mejoras. En el desarrollo aplico la arquitectura “Atomic Design” para garantizar la escalabilidad del proyecto.
+Disfruto del trabajo en equipo para lograr mejores resultados, diseño experiencias enfocadas en las necesidades del usuario utilizando el framework “Design Thinking”, realizo mejoras a cada proyecto tomando como punto de referencia cada retroalimentación. En el desarrollo utilizo arquitectura y semántica en el código de maquetado para garantizar la escalabilidad, para animar cada sección uso scripts, las mejores herramientas de diseño y frameworks de desarrollo.
 
 Design & Dev Tools:
 
-Miro | Figma | Marvel App | Html 5 | Css 3 | Java Script 
+Trello | Miro | Photoshop | Figma | Marvel | VS Code | Node.js | React | Git | Colaboración | Análisis | Resolución de problemas | Estrategias | Investigación | Creatividad | Organización | Negociación
 
 ![GitHub followers](https://img.shields.io/github/followers/GonzaloAqui?style=social)
 
